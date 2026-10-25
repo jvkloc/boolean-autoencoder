@@ -1,0 +1,7 @@
+name: bae
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - python=3.12
+prefix: /home/jonklo/miniforge3/envs/bae
